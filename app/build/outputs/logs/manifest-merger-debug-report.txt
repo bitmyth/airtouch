@@ -1,0 +1,380 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:2:1-51:12
+MERGED from [androidx.compose.material3:material3-android:1.3.2] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/0495d283d84067c907075671f6954ae9/transformed/material3-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/d473ed3a40b7b8f9117e201df039c864/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/a29a43335dd3d4dac45b11c111ff0e59/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/b49fe6aeb78188b4171b4c3fb87cabfd/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/1ef00d6b19e216f74423e82dc5e4aa6c/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/92a619e062248a7d0b165f163edd280d/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/0aff979f271416f134c1b6e13fe19e45/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/da04f63ce6a07f462df9ef3597bc3da9/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/ed0eac09aa422c600be928f5e1e60c87/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/4d3441bba811c5b90df22846b0f42606/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/0d73269ba01095d9ae604a55fe7ccefc/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/1474d235cecd0e212245e53a0422338e/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/c5922724e066d4f22d48c8a2e32c5629/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/171c1f41a5a3fc73d05e3c619f737abe/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/1691128471c116fd49294fd5ebf2be2f/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/3cd1302c04253afcf1ab0a085774f3ab/transformed/ui-test-manifest-1.8.3/AndroidManifest.xml:17:1-29:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/542397df39674fbcddcee80440a6487f/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/7b6fff562a577d15dd94d8bcc1aae70a/transformed/graphics-path-1.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/87df8a369b60444db7d64bfac0daf09f/transformed/emoji2-1.4.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.core:core:1.16.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/8b0319afa94a2cc3917bc16424f7e569/transformed/core-1.16.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.activity:activity:1.10.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/6a79199834ea2de473ec8e71c7b60067/transformed/activity-1.10.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/f56690e75ebb6d966688ec9f437e49d2/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/1a61a5f6d4fc1858591966f45ba43590/transformed/lifecycle-livedata-core-2.9.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/971e94929e8c88e8555224e9aee77a9e/transformed/lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/19b26d8f6eeed44f58e638cefa73ba1c/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/b55e1eeb96639e13addfad193d275560/transformed/savedstate-ktx-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-android:1.3.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/b717e6d7bb54d3a53701a3351b9e9fae/transformed/savedstate-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/b218b808681fa215cc4ca05752165d6b/transformed/lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/c2ebab3cbfcd208e78447c7b94478989/transformed/lifecycle-viewmodel-ktx-2.9.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/8222afa97358cb9253b454ed67efaa49/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/55bfe371b1fa1f823eba9f3d51ca5136/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/333867eb36d3102abecd133bc83be962/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.8] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/b8127193e7de69af5f1999aa0e7b2b63/transformed/material-icons-extended-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.8] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/e12e5c34f3fa66454eec075c382a95bb/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/dc066cc45650cbaf880f5d7fb4b7dcf1/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.10.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/acc877a032bfabb9fffe6fdbff021c26/transformed/activity-ktx-1.10.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.10.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/fbedd95200530513899d46a9c47cb94c/transformed/activity-compose-1.10.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/4bb0bf5d992d59d13558208e3c1a8784/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.16.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/d789631c1957a0518e7270a78f408902/transformed/core-ktx-1.16.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/c973e7b41bf8bdcc29a950a3f24159cd/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/62ae608dfbfdd53f05599373ea109931/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/6d019d94cd7b00608d852d185f65dc6e/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/01e87cd8c1935204dc206b3307f083fd/transformed/core-viewtree-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/fdfcfb869f942a48e37c6eeb01d399b1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/a5d283a907618aa47603f47ffffd6608/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/d82b2304bd2d3f83a2aed74e31f53067/transformed/profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/f753c5d3c35142fdfc19978348fa959a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/34fec689752276de4992c4a3d4fdabf0/transformed/tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/c32ced8a860cccf9b912cfec34b66d5e/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.bluetooth
+ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:4:5-6:36
+	android:required
+		ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:6:9-33
+	android:name
+		ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:5:9-50
+uses-feature#android.hardware.usb.host
+ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:7:5-9:36
+	android:required
+		ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:9:9-33
+	android:name
+		ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:8:9-49
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:12:5-14:38
+	android:maxSdkVersion
+		ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:14:9-35
+	android:name
+		ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:13:9-52
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:15:5-17:38
+	android:maxSdkVersion
+		ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:17:9-35
+	android:name
+		ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:16:9-58
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:20:5-76
+	android:name
+		ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:20:22-73
+uses-permission#android.permission.BLUETOOTH_SCAN
+ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:21:5-23:58
+	android:usesPermissionFlags
+		ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:23:9-55
+	android:name
+		ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:22:9-57
+uses-permission#android.permission.BLUETOOTH_ADVERTISE
+ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:24:5-78
+	android:name
+		ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:24:22-75
+uses-permission#android.permission.INTERNET
+ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:26:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:27:5-79
+	android:name
+		ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:27:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:28:5-66
+	android:name
+		ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:28:22-63
+application
+ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:30:5-49:19
+INJECTED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:30:5-49:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/171c1f41a5a3fc73d05e3c619f737abe/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/171c1f41a5a3fc73d05e3c619f737abe/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/3cd1302c04253afcf1ab0a085774f3ab/transformed/ui-test-manifest-1.8.3/AndroidManifest.xml:22:5-27:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/3cd1302c04253afcf1ab0a085774f3ab/transformed/ui-test-manifest-1.8.3/AndroidManifest.xml:22:5-27:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/87df8a369b60444db7d64bfac0daf09f/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/87df8a369b60444db7d64bfac0daf09f/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.16.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/8b0319afa94a2cc3917bc16424f7e569/transformed/core-1.16.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.16.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/8b0319afa94a2cc3917bc16424f7e569/transformed/core-1.16.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/f56690e75ebb6d966688ec9f437e49d2/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/f56690e75ebb6d966688ec9f437e49d2/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/fdfcfb869f942a48e37c6eeb01d399b1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/fdfcfb869f942a48e37c6eeb01d399b1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/d82b2304bd2d3f83a2aed74e31f53067/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/d82b2304bd2d3f83a2aed74e31f53067/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/f753c5d3c35142fdfc19978348fa959a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/f753c5d3c35142fdfc19978348fa959a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.16.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/8b0319afa94a2cc3917bc16424f7e569/transformed/core-1.16.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:35:9-35
+	android:label
+		ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:33:9-41
+	android:roundIcon
+		ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:34:9-54
+	android:icon
+		ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:32:9-43
+	android:allowBackup
+		ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:31:9-35
+	android:theme
+		ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:36:9-46
+	android:usesCleartextTraffic
+		ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:37:9-44
+activity#com.airtouch.app.MainActivity
+ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:39:9-48:20
+	android:screenOrientation
+		ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:42:13-52
+	android:windowSoftInputMode
+		ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:43:13-55
+	android:exported
+		ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:41:13-36
+	android:name
+		ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:40:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:44:13-47:29
+action#android.intent.action.MAIN
+ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml:46:27-74
+uses-sdk
+INJECTED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml
+MERGED from [androidx.compose.material3:material3-android:1.3.2] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/0495d283d84067c907075671f6954ae9/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.2] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/0495d283d84067c907075671f6954ae9/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/d473ed3a40b7b8f9117e201df039c864/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/d473ed3a40b7b8f9117e201df039c864/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/a29a43335dd3d4dac45b11c111ff0e59/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/a29a43335dd3d4dac45b11c111ff0e59/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/b49fe6aeb78188b4171b4c3fb87cabfd/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/b49fe6aeb78188b4171b4c3fb87cabfd/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/1ef00d6b19e216f74423e82dc5e4aa6c/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/1ef00d6b19e216f74423e82dc5e4aa6c/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/92a619e062248a7d0b165f163edd280d/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/92a619e062248a7d0b165f163edd280d/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/0aff979f271416f134c1b6e13fe19e45/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/0aff979f271416f134c1b6e13fe19e45/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/da04f63ce6a07f462df9ef3597bc3da9/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/da04f63ce6a07f462df9ef3597bc3da9/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/ed0eac09aa422c600be928f5e1e60c87/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/ed0eac09aa422c600be928f5e1e60c87/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/4d3441bba811c5b90df22846b0f42606/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/4d3441bba811c5b90df22846b0f42606/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/0d73269ba01095d9ae604a55fe7ccefc/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/0d73269ba01095d9ae604a55fe7ccefc/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/1474d235cecd0e212245e53a0422338e/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/1474d235cecd0e212245e53a0422338e/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/c5922724e066d4f22d48c8a2e32c5629/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/c5922724e066d4f22d48c8a2e32c5629/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/171c1f41a5a3fc73d05e3c619f737abe/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/171c1f41a5a3fc73d05e3c619f737abe/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/1691128471c116fd49294fd5ebf2be2f/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/1691128471c116fd49294fd5ebf2be2f/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/3cd1302c04253afcf1ab0a085774f3ab/transformed/ui-test-manifest-1.8.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/3cd1302c04253afcf1ab0a085774f3ab/transformed/ui-test-manifest-1.8.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/542397df39674fbcddcee80440a6487f/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/542397df39674fbcddcee80440a6487f/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/7b6fff562a577d15dd94d8bcc1aae70a/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/7b6fff562a577d15dd94d8bcc1aae70a/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/87df8a369b60444db7d64bfac0daf09f/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/87df8a369b60444db7d64bfac0daf09f/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.core:core:1.16.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/8b0319afa94a2cc3917bc16424f7e569/transformed/core-1.16.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.16.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/8b0319afa94a2cc3917bc16424f7e569/transformed/core-1.16.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/6a79199834ea2de473ec8e71c7b60067/transformed/activity-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/6a79199834ea2de473ec8e71c7b60067/transformed/activity-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/f56690e75ebb6d966688ec9f437e49d2/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/f56690e75ebb6d966688ec9f437e49d2/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/1a61a5f6d4fc1858591966f45ba43590/transformed/lifecycle-livedata-core-2.9.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/1a61a5f6d4fc1858591966f45ba43590/transformed/lifecycle-livedata-core-2.9.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/971e94929e8c88e8555224e9aee77a9e/transformed/lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/971e94929e8c88e8555224e9aee77a9e/transformed/lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/19b26d8f6eeed44f58e638cefa73ba1c/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/19b26d8f6eeed44f58e638cefa73ba1c/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/b55e1eeb96639e13addfad193d275560/transformed/savedstate-ktx-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/b55e1eeb96639e13addfad193d275560/transformed/savedstate-ktx-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/b717e6d7bb54d3a53701a3351b9e9fae/transformed/savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/b717e6d7bb54d3a53701a3351b9e9fae/transformed/savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/b218b808681fa215cc4ca05752165d6b/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/b218b808681fa215cc4ca05752165d6b/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/c2ebab3cbfcd208e78447c7b94478989/transformed/lifecycle-viewmodel-ktx-2.9.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/c2ebab3cbfcd208e78447c7b94478989/transformed/lifecycle-viewmodel-ktx-2.9.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/8222afa97358cb9253b454ed67efaa49/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/8222afa97358cb9253b454ed67efaa49/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/55bfe371b1fa1f823eba9f3d51ca5136/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/55bfe371b1fa1f823eba9f3d51ca5136/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/333867eb36d3102abecd133bc83be962/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/333867eb36d3102abecd133bc83be962/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.8] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/b8127193e7de69af5f1999aa0e7b2b63/transformed/material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.8] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/b8127193e7de69af5f1999aa0e7b2b63/transformed/material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.8] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/e12e5c34f3fa66454eec075c382a95bb/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.8] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/e12e5c34f3fa66454eec075c382a95bb/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/dc066cc45650cbaf880f5d7fb4b7dcf1/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/dc066cc45650cbaf880f5d7fb4b7dcf1/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/acc877a032bfabb9fffe6fdbff021c26/transformed/activity-ktx-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/acc877a032bfabb9fffe6fdbff021c26/transformed/activity-ktx-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.10.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/fbedd95200530513899d46a9c47cb94c/transformed/activity-compose-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.10.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/fbedd95200530513899d46a9c47cb94c/transformed/activity-compose-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/4bb0bf5d992d59d13558208e3c1a8784/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/4bb0bf5d992d59d13558208e3c1a8784/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.16.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/d789631c1957a0518e7270a78f408902/transformed/core-ktx-1.16.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/d789631c1957a0518e7270a78f408902/transformed/core-ktx-1.16.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/c973e7b41bf8bdcc29a950a3f24159cd/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/c973e7b41bf8bdcc29a950a3f24159cd/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/62ae608dfbfdd53f05599373ea109931/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/62ae608dfbfdd53f05599373ea109931/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/6d019d94cd7b00608d852d185f65dc6e/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/6d019d94cd7b00608d852d185f65dc6e/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/01e87cd8c1935204dc206b3307f083fd/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/01e87cd8c1935204dc206b3307f083fd/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/fdfcfb869f942a48e37c6eeb01d399b1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/fdfcfb869f942a48e37c6eeb01d399b1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/a5d283a907618aa47603f47ffffd6608/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/a5d283a907618aa47603f47ffffd6608/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/d82b2304bd2d3f83a2aed74e31f53067/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/d82b2304bd2d3f83a2aed74e31f53067/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/f753c5d3c35142fdfc19978348fa959a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/f753c5d3c35142fdfc19978348fa959a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/34fec689752276de4992c4a3d4fdabf0/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/34fec689752276de4992c4a3d4fdabf0/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/c32ced8a860cccf9b912cfec34b66d5e/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/c32ced8a860cccf9b912cfec34b66d5e/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/gsh/AndroidStudioProjects/airtouch/app/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/171c1f41a5a3fc73d05e3c619f737abe/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/171c1f41a5a3fc73d05e3c619f737abe/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/171c1f41a5a3fc73d05e3c619f737abe/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/3cd1302c04253afcf1ab0a085774f3ab/transformed/ui-test-manifest-1.8.3/AndroidManifest.xml:23:9-26:79
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/3cd1302c04253afcf1ab0a085774f3ab/transformed/ui-test-manifest-1.8.3/AndroidManifest.xml:25:13-36
+	android:theme
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/3cd1302c04253afcf1ab0a085774f3ab/transformed/ui-test-manifest-1.8.3/AndroidManifest.xml:26:13-76
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.8.3] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/3cd1302c04253afcf1ab0a085774f3ab/transformed/ui-test-manifest-1.8.3/AndroidManifest.xml:24:13-63
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/87df8a369b60444db7d64bfac0daf09f/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/f56690e75ebb6d966688ec9f437e49d2/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/f56690e75ebb6d966688ec9f437e49d2/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/d82b2304bd2d3f83a2aed74e31f53067/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/d82b2304bd2d3f83a2aed74e31f53067/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/f753c5d3c35142fdfc19978348fa959a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/f753c5d3c35142fdfc19978348fa959a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/87df8a369b60444db7d64bfac0daf09f/transformed/emoji2-1.4.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/87df8a369b60444db7d64bfac0daf09f/transformed/emoji2-1.4.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/87df8a369b60444db7d64bfac0daf09f/transformed/emoji2-1.4.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/87df8a369b60444db7d64bfac0daf09f/transformed/emoji2-1.4.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/87df8a369b60444db7d64bfac0daf09f/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/87df8a369b60444db7d64bfac0daf09f/transformed/emoji2-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/87df8a369b60444db7d64bfac0daf09f/transformed/emoji2-1.4.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/8b0319afa94a2cc3917bc16424f7e569/transformed/core-1.16.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/8b0319afa94a2cc3917bc16424f7e569/transformed/core-1.16.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/8b0319afa94a2cc3917bc16424f7e569/transformed/core-1.16.0/AndroidManifest.xml:23:9-81
+permission#com.airtouch.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/8b0319afa94a2cc3917bc16424f7e569/transformed/core-1.16.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/8b0319afa94a2cc3917bc16424f7e569/transformed/core-1.16.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/8b0319afa94a2cc3917bc16424f7e569/transformed/core-1.16.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/8b0319afa94a2cc3917bc16424f7e569/transformed/core-1.16.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/8b0319afa94a2cc3917bc16424f7e569/transformed/core-1.16.0/AndroidManifest.xml:26:22-94
+uses-permission#com.airtouch.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/8b0319afa94a2cc3917bc16424f7e569/transformed/core-1.16.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/8b0319afa94a2cc3917bc16424f7e569/transformed/core-1.16.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/f56690e75ebb6d966688ec9f437e49d2/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/f56690e75ebb6d966688ec9f437e49d2/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/f56690e75ebb6d966688ec9f437e49d2/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/d82b2304bd2d3f83a2aed74e31f53067/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/d82b2304bd2d3f83a2aed74e31f53067/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/d82b2304bd2d3f83a2aed74e31f53067/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/d82b2304bd2d3f83a2aed74e31f53067/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/d82b2304bd2d3f83a2aed74e31f53067/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/d82b2304bd2d3f83a2aed74e31f53067/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/d82b2304bd2d3f83a2aed74e31f53067/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/d82b2304bd2d3f83a2aed74e31f53067/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/d82b2304bd2d3f83a2aed74e31f53067/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/d82b2304bd2d3f83a2aed74e31f53067/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/d82b2304bd2d3f83a2aed74e31f53067/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/d82b2304bd2d3f83a2aed74e31f53067/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/d82b2304bd2d3f83a2aed74e31f53067/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/d82b2304bd2d3f83a2aed74e31f53067/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/d82b2304bd2d3f83a2aed74e31f53067/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/d82b2304bd2d3f83a2aed74e31f53067/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/d82b2304bd2d3f83a2aed74e31f53067/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/d82b2304bd2d3f83a2aed74e31f53067/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/d82b2304bd2d3f83a2aed74e31f53067/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/d82b2304bd2d3f83a2aed74e31f53067/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/gsh/AndroidStudioProjects/airtouch/.gradle-user/caches/8.14.2/transforms/d82b2304bd2d3f83a2aed74e31f53067/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
